@@ -1,0 +1,12 @@
+{
+  "editor.tabSize": 2, // 탭 사이즈(※코딩컨벤션 기준:2)
+  "editor.fontFamily": "Monaco", // 폰트
+  "editor.fontSize": 14, // 폰트사이즈
+  "editor.formatOnSave": true, // 저장 시 코드 자동정렬
+  "editor.tokenColorCustomizations": {
+    "comments": "#ff260a" // 주석 색상 지정
+  },
+  "editor.wordWrap": "on" // 작업창에 가로스크롤 생기지 않게함
+}
+
+
